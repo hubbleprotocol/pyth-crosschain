@@ -137,7 +137,7 @@ export const RECEIVER_CHAINS = {
   optimism_celestia_raspberry: 50061, // Gelato shared testnet
   parallel_testnet: 50062,
   polynomial_testnet: 50063,
-  astar_zkatana_testnet: 50064,
+  astar_zkyoto_testnet: 50064,
   boba_sepolia: 50065,
 };
 
