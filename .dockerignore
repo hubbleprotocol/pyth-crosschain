@@ -15,5 +15,5 @@
 
 .git
 
-hermes/wormhole
-!hermes/src/state/cache.rs
+apps/hermes/wormhole
+!apps/hermes/src/state/cache.rs
